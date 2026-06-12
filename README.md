@@ -6,7 +6,6 @@ L’objectif est de construire un système d’**Image Captioning** capable de g
 ## 📋 Contenu
 
 - `TP_Captioning_Ex2_kaggle.ipynb` : notebook exécuté sur **Kaggle** avec deux GPU Tesla T4.
-- Toutes les étapes sont détaillées : chargement et prétraitement du dataset MS-COCO 2017, construction du vocabulaire, implémentation des modèles, entraînement, évaluation (BLEU, METEOR, CIDEr, perplexité) et visualisation des cartes d’attention.
 
 ## 🚀 Principales fonctionnalités
 
@@ -68,4 +67,3 @@ Les principales cellules :
 ---
 
 *Notebook créé et exécuté par Aguelloul Mouad – Master AIDC 2025‑2026*  
-*Dépôt GitHub : [https://github.com/aguelloulmouad-hub/Tp2_Exo2_DeepL](https://github.com/aguelloulmouad-hub/Tp2_Exo2_DeepL)*
